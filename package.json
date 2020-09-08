@@ -1,5 +1,5 @@
 {
-  "name": "@dicarogreg/my-card",
+  "name": "greg227",
   "version": "1.1.0",
   "description": "Personal npm card for Greg DiCaro (@change your code for a better futur)",
   "main": "dist/card.js",
@@ -30,7 +30,9 @@
   ],
   "author": "Greg DiCaro",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "@ahmedsol/npx-card": "^1.0.0"
+  },
   "devDependencies": {
     "@babel/core": "^7.2.2",
     "@babel/preset-env": "^7.2.3",
