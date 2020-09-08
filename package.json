@@ -1,5 +1,5 @@
 {
-  "name": "my-card",
+  "name": "@dicarogreg/my-card",
   "version": "1.1.0",
   "description": "Personal npm card for Greg DiCaro (@change your code for a better futur)",
   "main": "dist/card.js",
